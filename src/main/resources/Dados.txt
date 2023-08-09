@@ -1,0 +1,7 @@
+1|Luana Fernandes |  419.576.247-28    |Rua Ibirapuã 1191  |
+2|Luan Souza|196.556.217-58|Rua Cravo Amarelo 1711
+3  |  Vitoria Rocha | 783.646.596-93   | Avenida Orlando Wanderley 1685  |
+4|Lucas Azevedo |  558.727.042-40   |  Travessa Doutor Walter Bellian 1886|
+5 | Beatrice Cardoso | 644.299.857-66 | Rua José Ferreira Porto 1695 |
+6 | Yasmin Ferreira  |  343.036.589-95 |   Rua Paulo Pereira Fiuza 1160 |
+7   |  Evelyn Silva  |    185.649.093-91| Rua do Manganes 1119|
